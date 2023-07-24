@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Quantum Serendipity: Exploring the Unpredictable World of QRNG"
-date: 2023/07/20
+date: 2023/07/23
 description: Discover the exhilarating fusion of true randomness and blockchain's Web3 revolution in the captivating world of QRNG.
 ---
 # Quantum Random Number Generation: Unleashing True Randomness with the Power of Quantum Mechanics
