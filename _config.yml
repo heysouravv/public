@@ -11,7 +11,7 @@ header_pages:
 style: dark
 
 footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
-
+listen_for_clients_preferred_style: true 
 plugins:
   - jekyll-seo-tag
 # Build settings
